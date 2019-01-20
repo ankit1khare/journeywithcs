@@ -1,6 +1,6 @@
 ---
 layout: post
-url: https://ankit1khare.github.io/introducing-hyde/
+url: https://ankit1khare.github.io/journeywithcs/introducing-hyde/
 title: Introducing Hyde
 ---
 
