@@ -1,5 +1,6 @@
 ---
 layout: post
+url: https://ankit1khare.github.io/journeywithcs/example-content/
 title: Example content
 ---
 
