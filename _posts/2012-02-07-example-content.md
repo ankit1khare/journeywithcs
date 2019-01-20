@@ -1,6 +1,7 @@
 ---
 layout: post
 url: https://ankit1khare.github.io/journeywithcs/example-content/
+shortnode: This is a test desc
 title: Example content
 ---
 
