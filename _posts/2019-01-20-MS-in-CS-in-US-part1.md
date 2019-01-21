@@ -2,7 +2,7 @@
 layout: post
 url: https://ankit1khare.github.io/journeywithcs/MS-in-CS-in-US-part1/
 shortnode: Master's degree in computer science in USA, how does it feel and what can it bring?
-title: Ms in US in CS Part1
+title: Ms in CS in US Part1
 ---
 
 Spending 2 years and 6 months in Texas, USA has been quite exciting. Normally, one comes across this kind of statement and makes sense out of it in his/her own way, which is something the writer or the speaker might not even mean. My focus here while writing this post is to be concrete and specific. So I would try to write less of inferences and more of experiences which I've underwent. 
