@@ -1,6 +1,6 @@
 ---
 layout: post
-url: https://ankit1khare.github.io/journeywithcs/MS-in-CS-in-US-part1/
+url: https://ankit1khare.github.io/journeywithcs/MS-in-CS-in-US-part-1/
 shortnode: Master's degree in computer science in USA, how does it feel and what can it bring?
 title: Ms in CS in US Part 1
 ---
