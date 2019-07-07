@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Journey with CS
-tagline:          'Jounrey into the world of computer science with Ankit Khare'
-description:      'Sharing my computer sicence experience with the world'
+tagline:          'Journey into the world of computer science'
+description:      'Sharing my computer science journey with the world'
 url:              https://ankit1khare.github.io/journeywithcs/
 baseurl:          'https://ankit1khare.github.io/journeywithcs/'
 permalink:        /:title/
